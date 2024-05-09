@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlnsDc="http://purl.org/dc/elements/1.1/"
+   xmlnsCc="http://creativecommons.org/ns#"
+   xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlnsSvg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="199.65945mm"
+   height="40.963169mm"
+   viewBox="0 0 199.65945 40.963169"
+   version="1.1"
+   id="svg8"
+   sodipodiDocname="Questionnaire_Logo4.svg"
+   inkscapeVersion="0.92.1 r15371">
+  <defs
+     id="defs2" />
+  <sodipodiNamedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscapePageopacity="0.0"
+     inkscapePageshadow="2"
+     inkscapeZoom="0.7"
+     inkscapeCx="-23.556545"
+     inkscapeCy="-69.692984"
+     inkscapeDocumentUnits="mm"
+     inkscapeCurrentLayer="layer1"
+     showgrid="false"
+     inkscapeSnapIntersectionPaths="true"
+     inkscapeObjectPaths="true"
+     inkscapeSnapSmoothNodes="true"
+     inkscapeSnapObjectMidpoints="true"
+     inkscapeSnapBbox="true"
+     inkscapeWindowWidth="3840"
+     inkscapeWindowHeight="2066"
+     inkscapeWindowX="-11"
+     inkscapeWindowY="-11"
+     inkscapeWindowMaximized="1"
+     fitMarginTop="0"
+     fitMarginLeft="0"
+     fitMarginRight="0"
+     fitMarginBottom="0"
+     inkscapePagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdfWork
+       rdfAbout="">
+      <dcFormat>image/svg+xml</dcFormat>
+      <dcType
+         rdfResource="http://purl.org/dc/dcmitype/StillImage" />
+      <dcTitle></dcTitle>
+    </rdfWork>
+  </metadata>
+  <g
+     inkscapeLabel="Layer 1"
+     inkscapeGroupmode="layer"
+     id="layer1"
+     transform="translate(-2.3262919,-116.17096)">
+    <g
+       id="g5082">
+      <g
+         transform="translate(-116.41667,38.364583)"
+         id="g4530">
+        <path
+           style="fill:#000000;fillOpacity:1;stroke:#000000;strokeWidth:0;strokeMiterlimit:4;strokeDasharray:none;strokeOpacity:1"
+           d="m 137.78417,118.71819 c -6.39807,-0.46823 -12.13236,-3.80227 -15.63572,-9.09094 -0.61817,-0.93321 -0.8295,-1.29806 -1.31359,-2.26786 -1.07145,-2.14652 -1.7069,-4.33722 -2.02833,-6.99256 -0.0849,-0.701206 -0.0847,-3.395088 2.6e-4,-4.157739 0.6917,-6.208426 3.94029,-11.584344 9.05734,-14.988511 3.34698,-2.226616 7.28236,-3.414207 11.31383,-3.414207 8.23478,0 15.63721,4.894567 18.8642,12.473215 0.78364,1.840384 1.27111,3.721807 1.5302,5.905879 0.0721,0.608173 0.0832,1.397142 0.0984,7.027993 l 0.0171,6.34291 h -2.1976 -2.19759 l -0.0168,-6.41378 c -0.0183,-6.995761 -0.004,-6.5971 -0.29676,-8.062963 -0.94693,-4.734679 -4.05328,-8.855617 -8.35985,-11.090341 -3.02714,-1.570818 -6.39085,-2.136224 -9.78013,-1.643941 -2.81627,0.409057 -5.47963,1.571101 -7.74851,3.380732 -0.665,0.530395 -1.91658,1.781382 -2.4522,2.451018 -1.91519,2.39444 -3.06796,5.149752 -3.45926,8.268229 -0.11393,0.907942 -0.1149,2.720671 -0.002,3.661646 0.87152,7.26116 6.38693,12.99293 13.56743,14.09968 1.03219,0.15909 1.47388,0.16892 7.58815,0.16892 h 6.13711 v 2.19699 2.19698 l -6.08306,-0.007 c -3.34568,-0.004 -6.31692,-0.0238 -6.60277,-0.0447 z"
+           id="path4507"
+           inkscapeConnectorCurvature="0" />
+        <rect
+           style="fill:#ff0000;fillOpacity:1;stroke:#000000;strokeWidth:0;strokeMiterlimit:4;strokeDasharray:none;strokeOpacity:1"
+           id="rect4499-2"
+           width="4.6006212"
+           height="4.6008301"
+           x="155.08723"
+           y="114.16871" />
+      </g>
+      <text
+         id="text4526"
+         y="156.74965"
+         x="46.113098"
+         style="fontStyle:normal;fontWeight:normal;fontSize:10.58333302px;lineHeight:1.25;fontFamily:sans-serif;letterSpacing:0px;wordSpacing:0px;fill:#000000;fillOpacity:1;stroke:none;strokeWidth:0.26458332"
+         xmlSpace="preserve"><tspan
+           style="fontSize:25.39999962px;strokeWidth:0.26458332"
+           y="156.74965"
+           x="46.113098"
+           id="tspan4524"
+           sodipodiRole="line">uestionnaire</tspan></text>
+    </g>
+  </g>
+</svg>
+
